@@ -19,6 +19,4 @@ contract MessageBoard {
         return messages.length;
     }
 }
-## Features
-- Post messages
-- On-chain storage
+
