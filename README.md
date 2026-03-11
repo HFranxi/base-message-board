@@ -9,3 +9,6 @@ Features
 Tech
 - Solidity
 - Base network
+## Features
+- Post messages
+- On-chain storage
