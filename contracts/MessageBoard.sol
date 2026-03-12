@@ -24,6 +24,10 @@ contract MessageBoard {
 
     emit MessagePosted(msg.sender, message);
     }
+
+    function getMessageCount() public view returns(uint){
+    return messageList.length;
+    }
 }
 // increment counter value
 // Simple on-chain message board on Base
