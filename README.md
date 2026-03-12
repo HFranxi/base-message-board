@@ -12,3 +12,6 @@ Tech
 ## Features
 - Post messages
 - On-chain storage
+## Features
+- On-chain messages
+- Public board
