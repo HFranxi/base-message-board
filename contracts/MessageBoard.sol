@@ -9,7 +9,7 @@ contract MessageBoard {
         uint256 time;
     }
 
-    Message[] public messages;
+    Message[] public messageList;
 
     function post(string memory _text) public {
         messages.push(Message(msg.sender,_text,block.timestamp));
