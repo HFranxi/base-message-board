@@ -28,6 +28,9 @@ contract MessageBoard {
     function getMessageCount() public view returns(uint){
     return messageList.length;
     }
+
+    require(bytes(message).length > 0);
+    }
 }
 // increment counter value
 // Simple on-chain message board on Base
