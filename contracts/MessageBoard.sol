@@ -20,3 +20,4 @@ contract MessageBoard {
     }
 }
 // increment counter value
+// Simple on-chain message board on Base
