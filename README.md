@@ -17,3 +17,4 @@ Tech
 - Public board
 ## Usage
 Users can post messages on Base network
+Example message: Hello Base
