@@ -18,6 +18,9 @@ contract MessageBoard {
     function totalMessages() public view returns(uint){
         return messages.length;
     }
+
+    event MessagePosted(address user, string message);
+    } 
 }
 // increment counter value
 // Simple on-chain message board on Base
