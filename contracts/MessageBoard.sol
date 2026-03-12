@@ -21,6 +21,9 @@ contract MessageBoard {
 
     event MessagePosted(address user, string message);
     } 
+
+    emit MessagePosted(msg.sender, message);
+    }
 }
 // increment counter value
 // Simple on-chain message board on Base
