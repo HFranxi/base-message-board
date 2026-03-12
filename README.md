@@ -15,3 +15,5 @@ Tech
 ## Features
 - On-chain messages
 - Public board
+## Usage
+Users can post messages on Base network
