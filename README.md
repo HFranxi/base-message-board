@@ -44,3 +44,7 @@ Users can call functions from the contract:
 
 - postMessage()
 - getMessage()
+
+## Security
+
+This contract is for educational purposes.
