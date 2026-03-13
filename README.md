@@ -37,3 +37,10 @@ The application consists of:
 2. Compile contract
 3. Connect MetaMask
 4. Deploy contract on Base network
+
+## Usage
+
+Users can call functions from the contract:
+
+- postMessage()
+- getMessage()
